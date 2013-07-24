@@ -1,4 +1,7 @@
 Sort
 ====
 
-some kind of sort with various complexity
+Varoius of sorting algorithm.
+
+Quick sort;
+Heap sort;
